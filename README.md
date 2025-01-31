@@ -1,4 +1,4 @@
-The files contained here are for a simple terminal based chat program I made for school. Me personally, I mainly worked on the server part of this program but the chat is very simple. The PDF displays all the assignment requirements but this is intended to show off the gist of the program. 
+The files contained here are for a simple terminal based chat program I made for school. Me personally, I mainly worked on the server part of this program but the chat is very simple. The PDF displays all the assignment requirements but this is intended to show off the gist of the program and how it works and what it does. 
 
 To start off, run the server like this.
 
